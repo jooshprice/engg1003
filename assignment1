@@ -1,0 +1,21 @@
+#include <stdio.h>
+int main() {
+    int choice = 0;
+    char in;
+    type alphabet [26] = {"A","B","C","D","E","F","G","H","I","J","K","L","M","N","O","P","Q","R","S","T","U","V","W","X","Y","Z"};
+    printf("choose sub: 1,");
+    scanf("%d",&choice);
+    if (choice == 1) {
+        int offset = 0;
+        printf("enter phrase");
+        scanf("%s",&in);
+        printf("enter ofset")
+        scanf("%d",offset)
+        for (i=0;i<offset) {
+
+        }
+    }
+
+
+    return 0;
+}
